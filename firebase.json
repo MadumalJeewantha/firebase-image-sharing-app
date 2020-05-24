@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "./Image Sharing App",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
